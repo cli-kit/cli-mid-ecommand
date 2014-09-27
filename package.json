@@ -1,7 +1,7 @@
 {
   "name": "cli-mid-ecommand",
   "version": "1.0.0",
-  "description": "Command error handling middleware",
+  "description": "Command error middleware",
   "author": "muji <noop@xpm.io>",
   "repository": {
     "type": "git",
